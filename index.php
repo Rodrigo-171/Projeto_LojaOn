@@ -528,10 +528,10 @@
 
   <!-- Swiper JS -->
   <!--Uncomment this line-->
-  <script src="wiper-bundle.min.js"></script>
+  <script src="js/swiper-bundle.min.js"></script>
   <!-- JavaScript -->
   <!--Uncomment this line-->
-  <script src="js/cardslide.js"></script>
+  <script src="cardslide.js"></script>
 </body>
 
 </html>
