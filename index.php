@@ -531,7 +531,7 @@
   <script src="js/swiper-bundle.min.js"></script>
   <!-- JavaScript -->
   <!--Uncomment this line-->
-  <script src="cardslide.js"></script>
+  <script src="js/cardslide.js"></script>
 </body>
 
 </html>
