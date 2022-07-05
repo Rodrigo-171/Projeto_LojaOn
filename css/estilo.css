@@ -55,6 +55,7 @@ a:hover{
     font-size: 14px;
 }
 
+
 .header__btnMenu i{
     color: #fff!important;
 }
@@ -133,10 +134,11 @@ a:hover{
     }
 }
 
+
+
 /*--------------background image--------------*/
 
 .hero {
-    height: 80vh;
     width: 100%;
     padding: 100px 0px;
     text-align: center;

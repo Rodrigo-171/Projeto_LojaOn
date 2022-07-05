@@ -119,8 +119,8 @@
       </div>
 
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe id="video" class="embed-responsive-item" frameborder="0"
-          src="media/HTML 5 - Videos e IFrames em HTML (Video 09).mp4"
+        <iframe id="video" class="embed-responsive-item" autoplay="1" frameborder="0"
+          src="https://www.youtube.com/embed/r5SyeE9KCFw"
           allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
       </div>
