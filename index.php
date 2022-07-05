@@ -133,8 +133,7 @@
 
       <!--GALERIA MOBILE-->
       <div class="mobile_galeria">
-        <div onclick="trocar1()" class="card_video" id="video-1-desk"
-          data-src="media/HTML 5 - Videos e IFrames em HTML (Video 09).mp4">
+        <div onclick="trocar1()" class="card_video" id="video-1-desk">
           <img class="image_card" src="img/Professores/prof01.jpeg" alt="">
           <div class="info_video">
             <p id="title">Titulo</p>

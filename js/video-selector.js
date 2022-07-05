@@ -1,5 +1,5 @@
 function trocar1()  {
-    document.getElementById("video").src="media/HTML 5 - Videos e IFrames em HTML (Video 09).mp4";
+    document.getElementById("video").src="https://www.youtube.com/embed/r5SyeE9KCFw";
 }
 
 function trocar2() {
