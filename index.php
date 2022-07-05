@@ -45,7 +45,7 @@
 
     <nav class="header__nav">
       <ul>
-        <li><a href="index.html">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href="#comofunc">Como funciona?</a></li>
         <li><a href="#title_plano">Planos</a></li>
         <li><a href="#alunos">Nossos Alunos</a></li>
@@ -121,7 +121,7 @@
       <div class="embed-responsive embed-responsive-16by9">
         <iframe id="video" class="embed-responsive-item" frameborder="0"
           src="media/HTML 5 - Videos e IFrames em HTML (Video 09).mp4"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
       </div>
       <div class="div_p_video">
@@ -486,7 +486,7 @@
         <div class="footer_col">
           <h4>LojaOn</h4>
           <ul>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li><a href="#comofunc">Como funciona?</a></li>
             <li><a href="#title_plano">Planos</a></li>
           </ul>
