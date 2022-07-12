@@ -38,7 +38,7 @@
 
 <body class="no-js">
   <header class="header">
-    <a href="index.html" class="logo-text">LojaOn</a>
+    <a href="index.php" class="logo-text">LojaOn</a>
 
     <button style="display: none;" class="header__btnMenu"><i class="fas fa-bars fa-2x"></i><span
         class="sr-only">Menu</span></button>

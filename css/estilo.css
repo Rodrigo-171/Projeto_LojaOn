@@ -151,6 +151,13 @@ a:hover{
     background-size:cover;
 }
 
+@media screen and (max-width: 470px) {
+    .hero{
+        height: auto!important;
+    }
+}
+
+
 .hero__title {
     background-color: #ff8800;
     width: 80%;
