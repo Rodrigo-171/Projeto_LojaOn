@@ -671,6 +671,39 @@ main.cards section.card_plano:first-child {
 }
 
 
+/* QUEM É GEISA? */
+
+.quem_geisa{
+    width: 100%;
+    background-color: #010304;
+}
+
+.container_geisa{ 
+    display: flex;
+    max-width: 1060px;
+    align-items: center;
+    padding-top: 42px;
+    padding-bottom: 0;
+    margin: 0 auto 0 auto;
+}
+
+.texto_geisa{
+    width: 100%;
+    padding: 50px;
+}
+
+.texto_geisa h1{
+    color: white;
+    font-size: 2.5rem;
+    letter-spacing: 0.5rem;
+}
+
+.texto_geisa p{
+    color: white;
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+}
+
 /*    FOOTER    */
 
 .footer{
@@ -808,6 +841,14 @@ main.cards section.card_plano:first-child {
 
     }
 
+    .hero__btn{
+        width: 22.8125rem;
+        max-width: 22.8125rem;
+        height: 5.75rem;
+        font-size: 1.625rem;
+    }
+    
+
 }
 
 @media screen and (max-width:1025px){
@@ -824,6 +865,28 @@ main.cards section.card_plano:first-child {
     .hero_div{
         flex-direction: column-reverse;
         place-items:center;
+    }
+
+    .container_geisa{ 
+        flex-direction: column-reverse;
+    }
+
+    .container_geisa .foto_geisa{
+        text-align: center;
+        max-width: 600px;
+    }
+
+    .container_geisa .foto_geisa img{
+        width: 100%;
+        height: auto;
+    }
+
+    .texto_geisa h1{
+        text-align: center;
+    }
+
+    .texto_geisa p{
+        justify-content: center;
     }
 }
 

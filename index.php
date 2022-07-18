@@ -74,7 +74,7 @@
       </div>
 
       <div class="hero_image">
-        <img src="img/undraw/undraw2.png" alt="imagem">
+        <img src="img/fotos/GEISA-1237x1274.png" alt="imagem">
       </div>
     </div>
   </section>
@@ -484,6 +484,23 @@
           industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
           scrambled it to make a type specimen book.
         </p>
+      </div>
+    </div>
+  </section>
+
+
+  <!--QUEM É GEISA?--> 
+
+  <section class="quem_geisa">
+    <div class="container_geisa">
+      <div class="texto_geisa">
+        <h1>Geisa Paiva</h1>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+          industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+          scrambled it to make a type specimen book.</p>
+      </div>
+      <div class="foto_geisa">
+        <img src="img/fotos/GEISA-GGeisa-600x600.jpg" alt="Imagem da Geisa dentro do G">
       </div>
     </div>
   </section>
